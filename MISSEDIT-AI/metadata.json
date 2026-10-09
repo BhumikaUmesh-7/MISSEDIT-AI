@@ -1,0 +1,6 @@
+{
+  "name": "MissedIt AI",
+  "description": "Catch up in minutes. Miss nothing important. Privacy-conscious conversation intelligence for unread WhatsApp group and team chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
